@@ -17,4 +17,7 @@ Try running the php page by copying path of registrationform.php in visual studi
 
 paste to browser localhost/registration/registrationform.php
 
+
+
+If you want to run it on your localhost
 The readymade folder you have to add first that file to htdocs to run
