@@ -16,3 +16,5 @@ set your made registration page to .php
 Try running the php page by copying path of registrationform.php in visual studio
 
 paste to browser localhost/registration/registrationform.php
+
+The readymade folder you have to add first that file to htdocs to run
